@@ -1,0 +1,11 @@
+# Node and distribution stuff
+/frontend/node_modules
+/frontend/dist
+
+# Production
+/build
+
+# Other
+.DS_Store
+.env*
+*.zip
